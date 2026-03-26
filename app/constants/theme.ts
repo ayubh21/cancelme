@@ -9,9 +9,9 @@ const tintColorLight = '#0a7ea4';
 const tintColorDark = '#fff';
 
 export const Brand = {
-  primary: '#F97316',
-  primaryLight: '#FFF7ED',
-  primaryDark: '#EA6C0A',
+  primary: '#4A90E2',
+  primaryLight: '#EEF4FF',
+  primaryDark: '#3A7DD4',
   surface: '#FFFFFF',
   illustrationBg: '#F5F7FA',
 };
