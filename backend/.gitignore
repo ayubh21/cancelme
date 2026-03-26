@@ -1,0 +1,28 @@
+# dependencies
+node_modules/
+
+# env
+.env
+.env.*
+
+# build output
+dist/
+build/
+out/
+
+# coverage / test
+coverage/
+.nyc_output/
+
+# logs
+*.log
+src/config/logs/
+src/config/logs/*.log
+src/config/logs/*.json
+
+# typescript
+*.tsbuildinfo
+
+# Editor / OS
+.vscode/
+.DS_Store
